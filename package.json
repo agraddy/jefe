@@ -9,5 +9,6 @@
     "test": "mocha"
   },
   "author": "Anthony Graddy",
+  "repository" : "git://github.com/agraddy/jefe",
   "license": "MIT"
 }
