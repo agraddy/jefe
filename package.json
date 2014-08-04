@@ -1,0 +1,13 @@
+{
+  "name": "jefe",
+  "version": "0.0.1",
+  "description": "Makes deployment and other administrative tasks easy to accomplish.",
+  "preferGlobal": "true",
+  "main": "index.js",
+  "bin": { "jefe": "index.js" },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Anthony Graddy",
+  "license": "MIT"
+}
