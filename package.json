@@ -1,10 +1,10 @@
 {
   "name": "jefe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Makes deployment and other administrative tasks easy to accomplish.",
   "preferGlobal": "true",
   "main": "index.js",
-  "bin": { "jefe": "index.js" },
+  "bin": { "jefe": "bin/index.js" },
   "scripts": {
     "test": "mocha"
   },
